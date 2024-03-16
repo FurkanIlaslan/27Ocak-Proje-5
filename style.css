@@ -1,0 +1,12 @@
+.yükseklik{
+    height: 580px;
+}
+
+.boyut{
+    height: 100%;
+}
+
+.konum{
+    position: absolute;
+    bottom: 10px;
+}
